@@ -7,20 +7,15 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Nguyễn Minh Triết
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    email: trietnguyen1107@gmail.com.com
+    phone: 0815828499
+    website: trietnguyen1107.github.io #do not add http://
+    github: trietnguyen1107
+    facebook: Triết Nguyễn
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,25 +24,22 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Tiếng Việt
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Bơi lội
         link:
 
-      - item: Snowboarding
+      - item: Chạy Bộ
         link:
 
-      - item: Cooking
+      - item: Gym
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
+Hồ Sơ Nghề Nghiệp:
+    Tiêu Đề: Tôi là một sinh viên
+    Tóm tắt: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
