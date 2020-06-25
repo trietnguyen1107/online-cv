@@ -16,9 +16,9 @@ sidebar:
     website: trietnguyen1107.github.io #do not add http://
     github: trietnguyen1107
     facebook: Triết Nguyễn
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads:
 
     Ngôn ngữ:
       - idiom: English
@@ -28,7 +28,7 @@ sidebar:
         level: Native
 
     interests:
-      - item: Bơi lội
+      - item: Bơi Lội
         link:
 
       - item: Chạy Bộ
@@ -36,130 +36,79 @@ sidebar:
 
       - item: Gym
         link:
-
-Hồ Sơ Nghề Nghiệp:
-    Tiêu Đề: Tôi là một sinh viên
+        
+      - item: Du Lịch
+        link:
+        
+      - item: Game
+        link:
+        
+Sơ lượt về bản thân:
+    Tiêu Đề: Thông tin cá nhân
     - Tóm tắt: 
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     Tôi tên là Triết, họ và tên đầy đủ là Minh Triết, 
+     năm nay 20 tuổi. Hiện tôi đang là sinh viên năm 2 
+     của trường đại học An Giang và chuyên ngành của tôi là CNTT.
+     Tôi theo học ngành này là vì tôi rất đam mê với máy tính
+     và muốn tìm hiểu sâu hơn về nó. Và mong muốn của tôi trong 
+     tương lai là sẽ được nhận vào một công ty về kỹ thuật máy 
+     tính đúng với chuyên môn và đam mê của mình.
+     
+     
 Học vấn:
     - degree: Đại học An Giang
       university: Đại học quốc gia TPHCM
       time: 2018 - 2022
 
 
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+Kinh nghiệm việc làm:
+    - role: Quản lí nhân sự
+      time: 2018 - present
+      company: Funny Mart
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+       Hiện tại tôi đang quản lí một cửa hiệu đồ ăn vặt của
+       gia đình mình. Vai trò của tôi là quản lí hệ thống máy
+       tính và kiểm kê hàng hóa , thông kê doanh thu bán hàng
+       và các mục chi tiêu của cửa hiệu.
+
+    - role: Quản lí kho vật tư
+      time: 2019 - present
+      company: Vật liệu xây dựng Hồng Phát
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        Vai trò của tôi trong công ty là quản lí các thông tin 
+        vật tư và hàng nhập về trong kho để thống kê và kiểm tra 
+        doanh số trên hệ thống máy tính của công ty
+        
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+Các dự án của bản thân:
+    title: Dự án cá nhân
+    intro: <Thiết kế phần mềm quản lí phòng Gym>
+      Hiện tôi đang có 1 dự án đang làm cùng với một người bạn 
+      đó là thiết kế một phần mềm để có thể quản lý phòng gym sao
+      cho các chức năng của phần mềm đó có thể đơn giản và dễ tiếp
+      cận với người dùng hơn và hạn chế tối đa các sai sót trong quá
+      trình quản lí nhất có thể.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Kỹ năng và thế mạnh bản thân
 
     toolset:
-      - name: Python & Django
+      - name: Làm việc nhóm
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Giao tiếp
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Thiết kế 
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Ra ý tưởng
+        level: 93%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Quan sát và cho ý kiến
         level: 60%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
